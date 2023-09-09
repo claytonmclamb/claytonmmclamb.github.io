@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Clayton McLamb"
-  avatar           : "profile.png"
+  avatar           : "ducks2.png"
   bio              : "Undergraduate stuident at Elon University studying computer science, data analytics, and applied math. "
   location         : "Elon, NC"
   employer         :
@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _
   - scope:
       path: ""
       type: posts
