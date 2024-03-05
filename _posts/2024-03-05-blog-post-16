@@ -1,0 +1,74 @@
+---
+title: 'Week Five'
+date: 2024-03-05
+permalink: /posts/2024/03/blog-post-16/
+tags:
+  - research
+  - my honors project
+---
+
+Promising results and images developed in the past week!
+
+# Contents
+
+- [Tasks Completed](#tasks)
+- [Timeline](#calendar)
+- [Goals](#moving)
+
+
+---
+
+
+<a name="tasks"></a>
+# Tasks Completed 
+- SURF Abstract Completed
+- 99% Finished a Whole Grant Application in 12 Hours
+- Got some cool images for presentations
+- Implemented Distribution approximations, etc. 
+
+# SURF Abstract
+- After recieving the edits from you, I sent it to Dr. Arangala and Mattfeld. 
+  - Dr. Arangala approved immediatley with no comments
+  - Dr. Mattfeld responded that he will view it when he is able.
+- **When I apply to SURF, should I list this project as data intensive (obviously) and DEI intensive (a previous student that I found when looking at CS abstracts that did fairness in ML listed this, so I was wondering) **
+
+# Grant Application (more of a rant)
+- When looking on SURF website, I found that you couuld apply to grants. I like to feel special, need to take inventory of what has been done so far, need to come up wiht a paper thing for math/stats, so I figured why not do all these things and get some moo-la.
+- Almost finished the main part of the grant proposal within 24 hours, and I went to a workshop for it (I was the only one who attended the workshop)
+- After attending this workshop, I can see why no one attends this ladies workshops. Below is a list of my issues with her:
+  - Believed I did not make my figures. Who else is visualizing decision boundaries on crescent shaped data?
+  - Instead of giving me valuable feedback, she asked whether data was plural or not. 
+  - Belived Google Colab was a computer and was confused why the computer we're running ML models on was so cheap. 
+  - Looked me dead in my eyes and said "which one are you applying for, some of them aren't competitive."
+  - After looking at all the figures and reading the descrription, said "what are your contributions." In my head I'm like "lady, its right there! Do you **NOT** see this beatiful looking fake data?"
+- Got some good feedback
+- I can fill out most of the parts (i.e. my responsibiltiies) by using the contract and your bio using the C.V. from my honors proposal (and some chat gpt to summarize it) if you're cool with that. 
+
+<a name="calendar"></a>
+# Calendar
+
+*What we're gonna plan*
+
+| Week | Days    | Content    | 
+| :---:   | :---: | :---: |
+| Week 6 | March 5 - 12 | Busy week ahead (exams, Data Nexus Workshop), maybe a smaller amount of work than usual | 
+| Week 7 | March 12-19 | Implement a hill-climbing-like algorithm to find good area to sample |
+| Week 8 | March 19-April 2 | Work on SURF presentation, presentation for IRIS (Danielle's conference), etc. |
+
+
+
+
+
+<a name="questions"></a>
+# Questions Raised
+
+<a name="moving"></a>
+# Moving Forward
+
+## Short-Term Goals
+- Get that writing lady fired
+
+
+
+## Long-Term Goals
+- Get presentations ready
